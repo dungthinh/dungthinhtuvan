@@ -2940,6 +2940,10 @@ header.sidebar_menu .bottom_content {
 /*===================================*
   08. TESTIMONIAL SECTION
 *===================================*/
+.btn-price {
+	all: inherit;
+	cursor: pointer;
+}
 .testimonial_img {
 	margin-bottom: 15px;
 }
