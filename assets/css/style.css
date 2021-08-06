@@ -2271,6 +2271,7 @@ header.sidebar_menu .bottom_content {
 .icon_box_content h6 {
     font-weight: 600;
 	margin-bottom: 15px;
+	text-align: center;
 }
 .icon_box_content p:last-child {
 	margin: 0;
